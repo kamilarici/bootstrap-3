@@ -1,0 +1,47 @@
+main {
+}
+/* main section{
+    background-image: url(./images/banner.jpeg);
+    height: calc(100vh - 56px);
+    background-position:center;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+} */
+
+.hero {
+  background: url(https://cdn.pixabay.com/photo/2021/09/16/15/26/fruit-6630377_1280.jpg)
+    center;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  object-fit: cover;
+  height: calc(100vh - 56px);
+}
+
+/* main section div{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+ } */
+
+.daire {
+  width: 150px;
+  height: 150px;
+}
+h3 {
+  margin-top: 20px;
+}
+.meyve {
+  width: 250px;
+  height: 250px;
+}
+
+footer {
+  background: url(./img/map.jpeg) center;
+}
